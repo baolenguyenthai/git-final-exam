@@ -14,3 +14,10 @@ Kỹ năng:
 1. Lập trình Python
 2. Sử dụng Git và GitHub
 3. Làm việc nhóm hiệu quả
+
+Kế hoạch học tập:
+1. Hoàn thành tốt các môn học trong chương trình.
+2. Học thêm về cấu trúc dữ liệu và giải thuật.
+3. Thành thạo Git, GitHub để quản lý source code.
+4. Rèn luyện kỹ năng làm việc nhóm qua dự án thực tế.
+5. Tìm kiếm cơ hội thực tập tại công ty phần mềm.
