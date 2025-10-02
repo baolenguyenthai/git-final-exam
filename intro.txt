@@ -1,1 +1,4 @@
-Hello, this is <Le Nguyen Thai Bao>
+Hello, this is <Họ Tên>
+Xin chào, tôi là <Họ Tên>
+
+Conflict resolved on 02/10/2025
