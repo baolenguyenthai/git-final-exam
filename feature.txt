@@ -1,0 +1,7 @@
+# Tính năng mới
+
+1. Tính năng: Hệ thống quản lý lịch học cá nhân.
+2. Người dùng có thể thêm, sửa, xóa lịch học.
+3. Có chức năng thông báo nhắc nhở trước buổi học.
+4. Lưu trữ dữ liệu lịch học vào cơ sở dữ liệu.
+5. Giao diện thân thiện, dễ sử dụng.
