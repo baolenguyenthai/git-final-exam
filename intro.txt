@@ -1,4 +1,4 @@
-Hello, this is <Họ Tên>
-Xin chào, tôi là <Họ Tên>
+Hello, this is <Le Nguyen Thai Bao>
+Xin chào, tôi là <Thai Bao>
 
 Conflict resolved on 02/10/2025
